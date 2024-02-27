@@ -1,0 +1,65 @@
+{
+  "name": "Marcos Vinicios",
+  "photo": "https://avatars.githubusercontent.com/u/157557169?s=400&u=d3fce7db5e46c021102eb30e45753dd60129c0f9&v=4",
+  "job": "Developer Web Full - Stack",
+  "location": "Goiás - BR",
+  "phone": "(62) 99338-4677",
+  "email": "colombiadeveloperweb@gmail.com",
+  "skills": {
+    "hardSkills": [
+      {
+        "name": "Lua",
+        "logo": "https://github.com/ColombiaDzZ/Programming-languages/blob/main/lua.png"
+      },
+      {
+        "name": "JavaScript",
+        "logo": "https://github.com/ColombiaDzZ/Programming-languages/blob/main/js.png"
+      },
+      {
+        "name": "HTML5",
+        "logo": "https://github.com/ColombiaDzZ/Programming-languages/blob/main/html.png"
+      },
+      {
+        "name": "CSS3",
+        "logo": "https://github.com/ColombiaDzZ/Programming-languages/blob/main/css.png"
+      },
+      {
+        "name": "XML",
+        "logo": "https://github.com/ColombiaDzZ/Programming-languages/blob/main/xml.png"
+      }
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Esforçado",
+      "Organização",
+      "Facilidade de comunicação"
+    ]
+  },
+  "languages": [
+    "Português BR",
+    "Inglês (Iniciante)",
+    "Espanhol (intermediário)"
+  ],
+  "portfolio": [
+    {
+      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
+      "url": "https://github.com/ColombiaDzZ/Pokedex",
+      "github": true
+    },
+    {
+      "name": "Projeto alternativo da interface do spotify",
+      "url": "https://github.com/ColombiaDzZ/Spotify-Projetc-NUI",
+      "github": true
+    },
+    {
+      "name": "Menu de Limpeza e Otimização de computador em .BAT",
+      "url": "https://github.com/ColombiaDzZ/MenuOptimization",
+      "github": true
+    },
+    {
+      "name": "Mini game simples no Roblox",
+      "url": "https://github.com/ColombiaDzZ/Roblox-Farm",
+      "github": true
+    }
+  ]
+}
